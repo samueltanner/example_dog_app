@@ -1,0 +1,7 @@
+{
+  id: user.id,
+  username: user.name,
+  email: user.email,
+#dogs: user.dog.name,
+
+}

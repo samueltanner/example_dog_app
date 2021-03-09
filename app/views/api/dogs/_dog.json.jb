@@ -1,0 +1,7 @@
+{
+  #id: dog.id,
+  dog_name: dog.name,
+  breed: dog.breed,
+  owner: dog.user.name,
+
+}
